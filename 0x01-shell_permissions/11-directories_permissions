@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find . -type d chmod a+x \
+chmod a+X *
